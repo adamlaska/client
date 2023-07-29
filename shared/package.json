@@ -229,7 +229,7 @@
     "redux-logger": "3.0.6",
     "rimraf": "2.6.3",
     "style-loader": "1.0.0",
-    "terser-webpack-plugin": "2.1.0",
+    "terser-webpack-plugin": "2.3.6",
     "tls": "git://github.com/keybase/nullModule",
     "typescript": "3.8.3",
     "v8-android-nointl": "git://github.com/keybase/v8-android-nointl#v7.5.1",
