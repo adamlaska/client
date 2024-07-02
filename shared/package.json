@@ -105,7 +105,7 @@
     "react-is": "16.8.6",
     "react-list": "0.8.13",
     "react-measure": "2.3.0",
-    "react-native": "0.64.0",
+    "react-native": "0.69.12",
     "react-native-audio": "4.3.0",
     "react-native-contacts": "5.0.3",
     "react-native-fast-image": "7.0.2",
@@ -160,7 +160,7 @@
     "@storybook/addon-storyshots": "5.2.1",
     "@storybook/addons": "5.2.1",
     "@storybook/channels": "5.2.1",
-    "@storybook/react": "5.2.1",
+    "@storybook/react": "5.3.0",
     "@storybook/react-native": "5.2.1",
     "@storybook/react-native-server": "5.2.1",
     "@storybook/theming": "5.2.1",
@@ -236,7 +236,7 @@
     "webpack": "4.41.0",
     "webpack-cli": "3.3.9",
     "webpack-dashboard": "3.2.0",
-    "webpack-dev-server": "3.8.1",
+    "webpack-dev-server": "4.9.0",
     "webpack-merge": "4.2.2"
   },
   "optionalDependencies": {
