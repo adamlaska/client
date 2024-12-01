@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/keybase/go-flip#readme",
   "dependencies": {
-    "avdl-compiler": "^1.3.29"
+    "avdl-compiler": "^1.4.6"
   }
 }
